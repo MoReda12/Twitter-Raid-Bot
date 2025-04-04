@@ -88,6 +88,16 @@ For support, please open an issue in the repository or contact the maintainers.
 
 ## Roadmap
 
+
+
+
+
+
+
+contact:
+- Email: instamoreda13@gmail.com
+- telegram: justmo69
+
 - [ ] Add proxy support
 - [ ] Implement rate limiting controls
 - [ ] Add analytics dashboard
